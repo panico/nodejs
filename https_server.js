@@ -1,5 +1,9 @@
 var https = require('https');
 
+var PORT = 8000;
+
+var HOSTNAME = '127.0.0.1';
+
 var fs = require('fs');
 
 var https_options = {
@@ -17,10 +21,11 @@ var https_options = {
        ]
 };
 
-https.createServer(options, function (req, res) {
+https.createServer(https_options, function (req, res) {
 
  res.writeHead(200);
 
- res.end("Welcome to Node.js HTTPS Servern");
+ res.end("Welcome to Node.js HTTPS Server");
 
-}).listen(8443)
+}).listen(PORT, HOSTNAME, () => {
+        console.log(`sERVER RUNNING AT HTTP://${HOSTNAME}:${PORT}/`)});
