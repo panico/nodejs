@@ -4,15 +4,15 @@ var fs = require('fs');
 
 var https_options = {
 
-  key: fs.readFileSync("/path/to/private.key"),
+  key: fs.readFileSync("/root/gdmedinan.codes.key"),
 
-  cert: fs.readFileSync("/path/to/your_domain_name.crt"),
+  cert: fs.readFileSync("/root/CA.gdmedinan.codes.crt"),
 
   ca: [
 
-          fs.readFileSync('path/to/CA_root.crt'),
+          fs.readFileSync('/root/CA.gdmedinan.codes.crt'),
 
-          fs.readFileSync('path/to/ca_bundle_certificate.crt')
+          fs.readFileSync('/root/intermendiate.gdmedinan.codes.crt')
 
        ]
 };
