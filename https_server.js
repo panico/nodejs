@@ -1,31 +1,14 @@
-var https = require('https');
+const http = require('http');
 
-var PORT = 8000;
+const hostname = 'localhost';
+const port = 3000;
 
-var HOSTNAME = '127.0.0.1';
+const server = http.createServer((req, res) => {
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/plain');
+  res.end('Hello World!\n');
+});
 
-var fs = require('fs');
-
-var https_options = {
-
-  key: fs.readFileSync("/root/gdmedinan.codes.key"),
-
-  cert: fs.readFileSync("/root/CA.gdmedinan.codes.crt"),
-
-  ca: [
-
-          fs.readFileSync('/root/CA.gdmedinan.codes.crt'),
-
-          fs.readFileSync('/root/intermendiate.gdmedinan.codes.crt')
-
-       ]
-};
-
-https.createServer(https_options, function (req, res) {
-
- res.writeHead(200);
-
- res.end("Welcome to Node.js HTTPS Server");
-
-}).listen(PORT, HOSTNAME, () => {
-        console.log(`sERVER RUNNING AT HTTP://${HOSTNAME}:${PORT}/`)});
+server.listen(port, hostname, () => {
+  console.log(`Server running at http://${hostname}:${port}/`);
+});
