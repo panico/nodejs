@@ -1,0 +1,355 @@
+fecha,asunto,valor,clase,tipo
+31/07/2019,Pago sueldito de Julio," $4,468,203",sueldo,ingreso
+31/07/2019,Patinenta grin a mi casa,"- $6,600",transporte,egreso
+31/07/2019,Gasolina Bora Extra (1),"- $50,000",transporte,egreso
+31/07/2019,Comida en wok,"- $114,400",comida,egreso
+01/08/2019,Pago cuota de apartamento bulevar 127 - cuota julio,"- $943,181",apartamento,egreso
+01/08/2019,Patineta grin de mi trabajo a trabajo Dani para almuerzo,"- $5,400",transporte,egreso
+01/08/2019,Almuerzo con Dani en Juan Burgers,"- $51,000",comida,egreso
+02/08/2019,"Compra desayuno farmatodo (sanduche, bon yourt, alpin)","- $8,200",comida,egreso
+02/08/2019,Almuerzo en mondongos - ajiaco mediano,"- $24,019",comida,egreso
+02/08/2019,Patineta grin de mi trabajo a trabajo Dani,"- $4,800",transporte,egreso
+02/08/2019,Beat de trabajo Dani a mi casa,"- $14,700",transporte,egreso
+02/08/2019,Beat de mi casa a restaurante oculta para cena amazónica,"- $7,700",transporte,egreso
+02/08/2019,Cobro seguro de vida co bbva,"- $21,001",seguro,egreso
+03/08/2019,Pago jugo y cerveza Oculto bar cena amazonica,"- $24,200",comida,egreso
+03/08/2019,Beat de cena amazónica a casa Dani,"- $9,200",transporte,egreso
+03/08/2019,patinenta grin enseñar a Dani a las 5:15 pm,"- $3,900",transporte,egreso
+03/08/2019,Comida mc donals nuggets agrandados en noche 10 pm,"- $37,800",comida,egreso
+03/08/2019,Pago icloud Apple 50 Gb,"- $2,800",otros,egreso
+05/08/2019,Patineta grin a casa,"- $7,200",transporte,egreso
+06/08/2019,almuerzo republica,"- $12,000",comida,egreso
+06/08/2019,retiro efectivo cajero 95,"- $200,000",efectivo,egreso
+06/08/2019,grin a oficina a Dani,"- $4,800",transporte,egreso
+06/08/2019,"Compras lulo ( frisbee, juguete, gomas, orejas de cerdo)","- $64,730",otros,egreso
+06/08/2019,Comida mcdonals nuggets en la noche 11:40pm,"- $35,800",comida,egreso
+10/08/2019,Beat polas Juancho Mariana juanpis y dani ,"- $10,700",transporte,egreso
+11/08/2019,Pilas en vikingo beer company ,"- $25,075",otros,egreso
+12/08/2019,Pago cuota de manejo cuenta bbva,"- $11,500",otros,egreso
+12/08/2019,Almuerzo con Dani en el Corral,"- $45,800",comida,egreso
+12/08/2019,Pago declaración de renta a Julio,"- $100,000",otros,egreso
+12/08/2019,Pago beat unicentro - casa recogida boletas cigarettes after sex,"- $6,200",transporte,egreso
+12/08/2019,Retiro dinero cama Dalo y Mile,"- $500,000",efectivo,egreso
+12/08/2019,Retiro cuota seguro bora,"- $150,000",seguro,egreso
+12/08/2019,Retiro cajero unicentro (cama+seguro bora + efectivo),"- $50,000",efectivo,egreso
+14/08/2019,Almuerzo comida koreana cumpleaños Juan Camilo,"- $47,759",comida,egreso
+14/08/2019,Patineta grin de mi trabajo a trabajo Dani,"- $5,700",transporte,egreso
+14/08/2019,Beat de trabajo Dani a casa Dani,"- $14,000",transporte,egreso
+15/08/2019,Pago de celular mes agosto,"- $74,959",celular,egreso
+15/08/2019,almuerzo pizza one containers cerca a trabajo Dani,"- $16,200",comida,egreso
+15/08/2019,Patineta grin de trabajo Dani a mi trabajo,"- $4,500",transporte,egreso
+15/08/2019,beat del trabajo a mi casa,"- $9,400",transporte,egreso
+15/08/2019,Beat de mi casa a casa Dani,"- $11,700",transporte,egreso
+16/08/2019,Patineta grin de mi trabajo a mi casa (lloviendo),"- $6,600",transporte,egreso
+16/08/2019,Beat de mi casa a casa Dani el viernes en la noche 10:30pm,"- $11,700",transporte,egreso
+17/08/2019,Retiro Cajero plata para viaje Melgi,"- $300,000",efectivo,egreso
+17/08/2019,Gasolina Bora Extra (2) para viaje Melgi,"- $100,000",transporte,egreso
+18/08/2019,Pago cocktails y empanaditas en bar club militar Melgi,"- $66,479",comida,egreso
+20/08/2019,Petineta grin de mi casa a trabajo en la mañana,"- $5,100",transporte,egreso
+20/08/2019,Patineta grin de mi trabajo a trabajo Dani para almuerzo,"- $5,100",transporte,egreso
+20/08/2019,Almuerzo con Dani en Crepes Artesanal,"- $30,000",comida,egreso
+20/08/2019,Patinenta grin de trabajo Dani a mi trabajo,"- $3,900",transporte,egreso
+20/08/2019,Patineta grin de mi trabajo a Juan Valdez al lado de trabajo Dani,"- $3,300",transporte,egreso
+21/08/2019,Pago de recibo de agua (se toma como retiro en efectivo),"- $235,540",efectivo,egreso
+21/08/2019,Pago de almuerzo en postres de mamá sopas de la abuela (se toma como retiro en efectivo),"- $118,100",efectivo,egreso
+21/08/2019,Patineta grin de mi trabajo a trabajo Dani,"- $5,100",transporte,egreso
+21/08/2019,Beat de trabajo Dani a mi casa,"- $10,000",transporte,egreso
+21/08/2019,Beat de mi casa a Armando concierto cigarettes after sex,"- $8,000",transporte,egreso
+21/08/2019,Beat de Armando cigarttes after sex a mi casa,"- $12,900",transporte,egreso
+22/08/2019,Beat de mi casa a casa Dani para Dani,"- $11,400",transporte,egreso
+24/08/2019,Prueba,"- $35,500",otros,egreso
+26/08/2019,Beat de casa Dani a mi casa,"- $12,700",transporte,egreso
+27/08/2019,Pago de recibo de luz (cuenta como retiro),"- $75,390",efectivo,egreso
+28/08/2019,Patineta grin de trabajo a peluqueria,"- $3,900",transporte,egreso
+28/08/2019,Peluqieria Fabio,"- $24,000",otros,egreso
+28/08/2019,Beat peluqueria a mi casa,"- $6,200",transporte,egreso
+30/08/2019,Almuerzo en mondongos - bandeja paisa mediana,"- $28,189",comida,egreso
+30/08/2019,Patienta grin de trabajo a estación de transmilenio calle 100 para peli justice,"- $3,900",transporte,egreso
+02/09/2019,Pago sueldito de Agosto," $3,740,592",sueldo,ingreso
+02/09/2019,Pago de bonito de trasnochadas y fines de semana," $4,000,000",sueldo,ingreso
+01/09/2019,Beat de casa Dani a kapput despedida Juancho,"- $13,600",transporte,egreso
+01/09/2019,"Vodka, tónica y cerveza en capput despedida Juancho","- $116,000",otros,egreso
+01/09/2019,Compra gotas para ojos y conds,"- $41,350",otros,egreso
+02/09/2019,Compra de cepillo de dientes y crema dental,"- $16,440",otros,egreso
+02/09/2019,Almuerzo con Dani en crepes artesano,"- $60,900",comida,egreso
+02/09/2019,Compra boleta coronasunsets 5 octubre hercules and love affair- TDC,"- $79,000",otros,egreso
+02/09/2019,Patineta Grin de mi trabajo a trabajo Dani para almuerzo,"- $4,800",transporte,egreso
+02/09/2019,Patinenta Grin de almuerzo con Dani a mi trabajo,"- $4,800",transporte,egreso
+02/09/2019,Segundo cobro patineta grin de almuerzo Dani a mi trabajo (devolución solicitada - se verá reflejada máximo en 15 días hábiles es decir 23 sept aprox),"- $4,800",transporte,egreso
+02/09/2019,Patineta Grin a lugar de containers cerca trabajo Dani,"- $5,400",transporte,egreso
+02/09/2019,Patineta Grin de containers a estación transmilenio con Dani,"- $2,700",transporte,egreso
+03/09/2019,Beat de casa Dani a trabajo Dani con parada para mi trabajo,"- $11,200",transporte,egreso
+03/09/2019,Pago cuota de apartamento bulevar 127 - cuota agosto,"- $943,181",apartamento,egreso
+03/09/2019,Almuerzo de hamburguesa vaca roja,"- $24,310",comida,egreso
+03/09/2019,Patineta grin por la 116 con Dani,"- $3,600",transporte,egreso
+03/09/2019,Patineta grin a homecentry calle 166 ,"- $4,500",transporte,egreso
+04/09/2019,Compra medicamentos gripa - noraver,"- $37,415",otros,egreso
+04/09/2019,Almuerzo en el cucharon,"- $10,000",comida,egreso
+05/09/2019,Compra miniso audifonos y cable Dani,"- $103,800",otros,egreso
+06/09/2019,almuerzo el corral con Dani,"- $48,800",comida,egreso
+07/09/2019,Pago multa biblioteca universidad Dani,"- $19,000",otros,egreso
+07/09/2019,Beat de mi casa a enter the void cll 76-10,"- $9,300",transporte,egreso
+08/09/2019,Comida McDonalds nuggets con Dani,"- $37,800",comida,egreso
+08/09/2019,Tanqueada con extra bora 2 galones,"- $24,780",transporte,egreso
+09/09/2019,Comida en KO Asian ktichen con Dani,"- $127,916",comida,egreso
+09/09/2019,Beat de KO Asian kitchen a mi casa,"- $9,800",transporte,egreso
+10/09/2019,Pago factura gas natural,"- $47,910",otros,egreso
+10/09/2019,Grin desde mi trabajo a Cecimin cita odontológica,"- $4,800",transporte,egreso
+10/09/2019,Bono para cita odontológica en cecimin ,"- $33,500",otros,egreso
+10/09/2019,Beat de cita odontológica en cecimin a mi casa,"- $10,000",transporte,egreso
+11/09/2019,Grin desde mi casa a trabajo,"- $5,100",transporte,egreso
+11/09/2019,Devolución puntos por dinero de viaje grin de mi casa a trabajo," $5,100",otros,ingreso
+11/09/2019,Patineta grin de mi trabajo a estación calle 100,"- $4,800",transporte,egreso
+11/09/2019,Beat de casa Dani a centro comercial plaza claro para cambiar audifonos miniso,"- $5,000",transporte,egreso
+11/09/2019,Beat de centro comercial plaza claro a casa Dani,"- $5,000",transporte,egreso
+12/09/2019,Trasnferencia de prueba a cabeto,- $1,otros,egreso
+13/09/2019,Pago de bono cita médica general,"- $33,500",otros,egreso
+13/09/2019,Patineta grin a cita médica general,"- $2,400",transporte,egreso
+13/09/2019,Patineta grin de cita médica general a mi casa,"- $6,600",transporte,egreso
+13/09/2019,Pago de celular,"- $75,041",celular,egreso
+14/09/2019,Compra de seda dental en farmatodo,"- $7,420",otros,egreso
+14/09/2019,Picada en palos de moguer,"- $35,577",comida,egreso
+15/09/2019,Entradas a pelicula monos,"- $32,000",otros,egreso
+15/09/2019,Tanqueada con extra bora 2 galones,"- $50,000",transporte,egreso
+15/09/2019,Compra nuggets en mcdonalds 2 combos,"- $35,800",comida,egreso
+16/09/2019,Grin desde mi casa a trabajo,"- $4,500",transporte,egreso
+16/09/2019,Compra de protector apple watch,"- $90,000",otros,egreso
+16/09/2019,Compra de gta 5 en catronix,"- $89,900",otros,egreso
+16/09/2019,Comida en crepes and wafles,"- $60,800",comida,egreso
+17/09/2019,Compra en tostao al lado de trabajo dani,"- $5,000",comida,egreso
+17/09/2019,Beat de trabajo Dani a mi casa,"- $5,600",transporte,egreso
+18/09/2019,Beat de casa Dani a mi trabajo,"- $12,700",transporte,egreso
+18/09/2019,almuerzo en muy,"- $9,900",comida,egreso
+19/09/2019,Pago boletas estereo picnic,"- $1,178,000",otros,egreso
+19/09/2019,almuerzo en el cucharon,"- $10,000",comida,egreso
+19/09/2019,Beat de trabajo a mi casa,"- $5,800",transporte,egreso
+20/09/2019,Almuerzo kfc,"- $60,600",comida,egreso
+20/09/2019,Cobros por asociar tarjeta en rappi,- $641,otros,egreso
+24/09/2019,Amuerzo con Dani en crepes artesanos,"- $72,500",comida,egreso
+24/09/2019,Patineta grin a almuerzo con Dani,"- $5,100",transporte,egreso
+25/09/2019,Patineta grin de trabajo Kuki a mi trabajo,"- $3,600",transporte,egreso
+25/09/2019,Pago de factura de la luz,"- $129,060",otros,egreso
+25/09/2019,Pizza en el trabajo,"- $14,600",comida,egreso
+25/09/2019,Almuerzo en burgues,"- $16,550",comida,egreso
+25/09/2019,Beat de trabajo a mi casa,"- $5,800",transporte,egreso
+26/09/2019,Almuerzo en sierra nevada,"- $22,400",comida,egreso
+26/09/2019,Comida en vertigo wings,"- $31,576",comida,egreso
+27/09/2019,Beat de casa dani a trabajo re caro,"- $20,300",transporte,egreso
+27/09/2019,Almuerzo en cucharon,"- $10,000",comida,egreso
+27/09/2019,Patineta grin de mi trabajo a trabajo Dani,"- $3,600",transporte,egreso
+28/09/2019,Tanqueado con extra Bora,"- $50,000",transporte,egreso
+30/09/2019,Grin a trabajo Dani para almuerzo,"- $4,800",transporte,egreso
+30/09/2019,Grin a mi trabajo desde trabajo Dani,"- $4,500",transporte,egreso
+30/09/2019,Patineta grin a trabajo Dani,"- $3,300",transporte,egreso
+30/09/2019,Almuerzo con Dani en containers,"- $24,500",comida,egreso
+01/10/2019,Pago sueldito de Septiembre," $4,468,132.48",sueldo,ingreso
+01/10/2019,Beat de trabajo a mi casa,"- $7,500",transporte,egreso
+02/10/2019,Almuerzo en 90 calentados,"- $17,500",comida,egreso
+02/10/2019,Pago seguro de vida,"- $21,001",seguro,egreso
+03/10/2019,almuerzo en sipote burrito,"- $20,100",comida,egreso
+03/10/2019,Compra de chaqueta en Zara,"- $139,900",otros,egreso
+03/10/2019,comida en creppes unicentro con Dani,"- $65,400",comida,egreso
+03/10/2019,Retiro en cajero,"- $120,000",efectivo,egreso
+03/10/2019,Beat de unicentro a mi casa,"- $1,700",transporte,egreso
+03/10/2019,Compra de almacenamiento en apple,"- $2,800",otros,egreso
+04/10/2019,Pago de recibo de gas,"- $37,360",otros,egreso
+04/10/2019,Patineta grin ,"- $3,900",transporte,egreso
+04/10/2019,Pago de tarjeta de crédito - viaje uber,"- $13,259",transporte,egreso
+04/10/2019,Pago cuota de apartamento bulevar 127 - cuota septiembre,"- $943,181",apartamento,egreso
+05/10/2019,Tanqueada gasolina extra bora,"- $50,000",transporte,egreso
+05/10/2019,Robo tarjeta de crédito,"- $341,066",otros,egreso
+07/10/2019,Beat de mi trabajo a casa Dani,"- $10,100",transporte,egreso
+08/10/2019,Almuerzo en sopas de mama ,"- $25,600",comida,egreso
+08/10/2019,Beat,"- $6,200",transporte,egreso
+08/10/2019,Beat ,"- $12,100",transporte,egreso
+09/10/2019,Beat,"- $11,500",transporte,egreso
+09/10/2019,Retiro en cajero,"- $140,000",efectivo,egreso
+09/10/2019,Cobro de retiro en cajero,"- $1,950",otros,egreso
+10/10/2019,Grin,"- $6,300",transporte,egreso
+11/10/2019,Grin,"- $5,400",transporte,egreso
+11/10/2019,Almuerzo hamburguesa en edificio pijao,"- $22,200",comida,egreso
+11/10/2019,Compras lulito regalo cumple,"- $26,150",otros,egreso
+15/10/2019,Cuota de manejo,"- $11,500",otros,egreso
+15/10/2019,Pago de celular,"- $75,000",celular,egreso
+15/10/2019,Grin,"- $3,600",transporte,egreso
+15/10/2019,Almuerzo en el cucharon,"- $10,000",comida,egreso
+15/10/2019,Comida en el corral 116 con 19 con Dani,"- $52,800",comida,egreso
+16/10/2019,Beat,"- $14,300",transporte,egreso
+16/10/2019,Grin a trabajo Dani,"- $3,600",transporte,egreso
+16/10/2019,Beat,"- $13,500",transporte,egreso
+16/10/2019,Almuerzo sierra nevada,"- $21,000",comida,egreso
+16/10/2019,Didi de trabajo a casa dani,"- $16,917",transporte,egreso
+16/10/2019,Pago de agua,"- $217,190",otros,egreso
+17/10/2019,Almuerzo muy,"- $9,900",comida,egreso
+17/10/2019,Didi de casa Diego a mi casa,"- $6,116",transporte,egreso
+18/10/2019,Compra de tendidos para mi cama,"- $336,986",otros,egreso
+18/10/2019,Almuerzo en el corral,"- $19,900",comida,egreso
+18/10/2019,Didi de peluqueria a mi casa,"- $5,051",transporte,egreso
+18/10/2019,Grin de trabajo a Peluqueria,"- $3,600",transporte,egreso
+19/10/2019,Cambio de aceite bora,"- $322,700",transporte,egreso
+19/10/2019,Retiro en cajero expo-cerveza,"- $200,000",efectivo,egreso
+22/10/2019,Patineta grin de trabajo a casa,"- $7,200",transporte,egreso
+23/10/2019,Donación comida perritos,"- $32,500",otros,egreso
+26/10/2019,Beat de casa Julian a mi casa (cards against humanity),"- $14,700",transporte,egreso
+26/10/2019,Almuerzo en wok con mi madre y cami,"- $37,200",comida,egreso
+28/10/2019,Comida en pf chang con dani," $49,107",comida,ingreso
+28/10/2019,gasolina extra bora,"- $100,000",transporte,egreso
+29/10/2019,almuerzo en hornitos,"- $16,800",comida,egreso
+30/10/2019,grin a casa desde trabajo,"- $5,100",transporte,egreso
+31/10/2019,Pago recibo luz,"- $102,960",otros,egreso
+31/10/2019,Pago recibo gas,"- $35,200",otros,egreso
+01/11/2019,Pago sueldote de octubre," $4,468,132.48",sueldo,ingreso
+01/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $3,750",transporte,egreso
+01/11/2019,Beat de mi casa a karaoke amigos mono,"- $5,000",transporte,egreso
+02/11/2019,Pago polas de bbc salida con mono y amigos,"- $13,400",otros,egreso
+02/11/2019,Beat de karaoke amigos mono a mi casa,"- $6,200",transporte,egreso
+04/11/2019,Pago de almacenamiento icloud,"- $2,800",otros,egreso
+05/11/2019,Pago cuota apartamento,"- $943,181",apartamento,egreso
+05/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $3,325",transporte,egreso
+05/11/2019,Pago runt actualización de datos,"- $1,700",otros,egreso
+06/11/2019,Invitación almuerzo osquitar,"- $42,240",comida,egreso
+06/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $2,933",transporte,egreso
+08/11/2019,Retiro cajero automático viaje duitama,"- $100,000",efectivo,egreso
+09/11/2019,Retiro cajero automático en rumbos viaje duitama,"- $200,000",efectivo,egreso
+12/11/2019,Didi de trabajo a mi casa,"- $8,227",transporte,egreso
+13/11/2019,Beat de trabajo a mi casa,"- $7,000",transporte,egreso
+15/11/2019,Beat de trabajo a mi casa a las 12 am,"- $7,800",transporte,egreso
+15/11/2019,Pago celular,"- $75,000",celular,egreso
+15/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $2,871",transporte,egreso
+15/11/2019,Didi a beer para ver partido con mono,"- $6,182",transporte,egreso
+16/11/2019,Didi de casa mono despues de ver partido a mi cas,"- $5,056",transporte,egreso
+16/11/2019,Almuerzo con mi madre en pf changs,"- $92,793",comida,egreso
+16/11/2019,Compras en homecenter ducha,"- $229,600",otros,egreso
+17/11/2019,Desayuno familia creppes and wafles,"- $60,700",comida,egreso
+19/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $3,900",transporte,egreso
+20/11/2019,Almuerzo en el corral,"- $24,900",comida,egreso
+20/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $3,600",transporte,egreso
+22/11/2019,Viaje en bici muvo de casa a terapia espalda,"- $2,250",transporte,egreso
+22/11/2019,Almuerzo en sopas de mama postres de abuela,"- $22,500",comida,egreso
+22/11/2019,Transacción a oki para cena de cumple mary,"- $70,000",otros,egreso
+25/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $4,800",transporte,egreso
+26/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $3,100",transporte,egreso
+28/11/2019,Pago de factura luz de apto,"- $110,490",otros,egreso
+29/11/2019,Viaje en bici muvo de trabajo a mi casa,"- $3,900",transporte,egreso
+01/12/2019,Pago sueldote de noviembre," $4,468,108.00",sueldo,ingreso
+02/12/2019,Almuerzo en el burgues,"- $18,000",comida,egreso
+02/12/2019,Viaje en bici muvo de trabajo a mi casa,"- $3,750",transporte,egreso
+02/12/2019,Compra tiquetes viaje a Medellin con Palas,"- $720,996",otros,egreso
+02/12/2019,Pago cuota apartamento,"- $943,181",apartamento,egreso
+02/12/2019,Cobro seguro de vida,"- $21,001",seguro,egreso
+02/12/2019,Compra celular padres regalo navidad,"- $749,900",otros,egreso
+03/12/2019,Almuerzo en muy,"- $7,900",comida,egreso
+03/12/2019,Pago de vuelo a medellin por Dalo," $361,000",otros,ingreso
+04/12/2019,Viaje en bici muvo de trabajo a mi casa,"- $4,050",transporte,egreso
+04/12/2019,Pago almacenamiento icloud apple,"- $2,800",otros,egreso
+04/12/2019,Almuerzo en el cucharon,"- $10,000",comida,egreso
+05/12/2019,Viaje en bici muvo de trabajo a juan valdez 116,"- $3,450",transporte,egreso
+05/12/2019,Almuerzo en hornitos,"- $17,300",comida,egreso
+05/12/2019,Mocca en juan valdez,"- $5,400",comida,egreso
+05/12/2019,Compra de cigarrillos en D1,"- $3,480",otros,egreso
+05/12/2019,Beat de bodega bbc 118 con 13 a casa,"- $5,000",transporte,egreso
+06/12/2019,Pago terapia postura,"- $76,000",otros,egreso
+06/12/2019,Almuerzo en mondogos,"- $34,744",comida,egreso
+06/12/2019,Viaje en bici muvo de trabajo a casa,"- $3,750",transporte,egreso
+07/12/2019,Retiro en cajero unicentro,"- $200,000",efectivo,egreso
+07/12/2019,Regalo de cumpleaños a Dani,"- $185,490",otros,egreso
+09/12/2019,Viaje en bici muvo de trabajo a peluqueria,"- $3,150",transporte,egreso
+09/12/2019,Vaje en bici muvo de peluqueria a casa,"- $3,150",transporte,egreso
+10/12/2019,Almuerzo en sakura ramen,"- $31,685",comida,egreso
+10/12/2019,Cambio en reserva vuelo Dalo a medellin,"- $81,331",otros,egreso
+12/12/2019,Pago recibo del agua,"- $200,820",otros,egreso
+13/12/2019,Pago terapia postura,"- $78,000",otros,egreso
+14/12/2019,Retiro sin tarjeta cajero automatico viaje medellin,"- $200,000",efectivo,egreso
+15/12/2019,Compra café regalo a padres,"- $36,900",comida,egreso
+16/12/2019,Prestamo Daniela matricula uniandes,"- $4,492,000",otros,egreso
+16/12/2019,Pago de celular mes dic,"- $82,451",celular,egreso
+16/12/2019,Cuota de  manejo,"- $11,500",otros,egreso
+18/12/2019,Almuerzo en juan burguers,"- $25,500",comida,egreso
+20/12/2019,Pago convocatoria mintic,"- $10,099",otros,egreso
+20/12/2019,Retrio sin tarjeta ,"- $150,000",efectivo,egreso
+20/12/2019,Pago terapia postura,"- $78,000",otros,egreso
+20/12/2019,Compra regalo Isa bono zara,"- $100,000",otros,egreso
+20/12/2019,Viaje en bici muvo de unicentro a mi casa,"- $2,400",transporte,egreso
+21/12/2019,Retrio sin tarjeta compra dolares para pago juegos xbox a Cami,"- $460,000",efectivo,egreso
+21/12/2019,Pago de recibo condensa,"- $132,720",otros,egreso
+21/12/2019,Tanqueada gasolina extra a bora,"- $50,000",transporte,egreso
+22/12/2019,Compra de polas en tejo turmeque,"- $12,500",otros,egreso
+22/12/2019,Compra de almuerzo en rumbos,"- $39,600",comida,egreso
+24/12/2019,Cobro fondo de empleado FOE,"- $108,000",otros,egreso
+24/12/2019,Compra trago en jumbo duitama para 24 dic,"- $172,340",otros,egreso
+26/12/2019,Pago pse duplicado cedula mono,"- $44,400",otros,egreso
+30/12/2019,Compra air friyer regalo Juanse a Cami,"- $256,560",otros,egreso
+31/12/2019,Retiro en cajero automatico innovo duitama,"- $100,000",efectivo,egreso
+01/01/2020,Pago de sueldo," $4,468,108",sueldo,ingreso
+01/01/2020,Pago de prima," $2,500,000",sueldo,ingreso
+04/01/2020,Cobro almacenamiento icloud,"- $2,800",otros,egreso
+07/01/2020,Bici muvo de trabajo a casa,"- $3,900",transporte,egreso
+07/01/2020,"Mercado en exito baterias calentador, leche, doritos, cereales","- $46,080",comida,egreso
+07/01/2020,Tanqueo gasolina a mazda,"- $20,000",transporte,egreso
+07/01/2020,Transferencia a Angelines cumple isa y regalo Mary,"- $146,000",otros,egreso
+07/01/2020,Pago cuota apartamento,"- $943,181",apartamento,egreso
+08/01/2020,Almuerzo en el corral,"- $19,900",comida,egreso
+09/01/2020,Almuerzo en food truck,"- $11,500",comida,egreso
+09/01/2020,Compras en farma todo mani y papas,"- $4,000",comida,egreso
+10/01/2020,Retiro en cajero automático,"- $150,000",efectivo,egreso
+10/01/2020,Bici muvo de trabajo a casa,"- $3,750",transporte,egreso
+13/01/2020,Bici muvo de trabajo a casa,"- $3,750",transporte,egreso
+13/01/2020,"Compras en miniso de regalo Angelines, Dave, Tommy y Nico","- $46,600",otros,egreso
+14/01/2020,Bici muvo de trabajo a casa,"- $5,500",transporte,egreso
+15/01/2020,Pago factura celular tigo,"- $82,451",celular,egreso
+15/01/2020,Almuerzo en el corral,"- $19,900",comida,egreso
+15/01/2020,Retiro en cajero automático,"- $80,000",efectivo,egreso
+16/01/2020,Almuerzo en sopas de mamá postres de abuela,"- $27,100",comida,egreso
+16/01/2020,Bici muvo de trabajo a casa,"- $5,250",transporte,egreso
+16/01/2020,Compra audifonos xiaomi para mono,"- $99,900",otros,egreso
+17/01/2020,Pago sesiones pilates en clinica de la postura,"- $192,000",otros,egreso
+17/01/2020,Almuerzo amburguesa veggie en el burges,"- $24,000",comida,egreso
+17/01/2020,Bici muvo de trabajo a casa,"- $5,500",transporte,egreso
+19/01/2020,Transferencia Valeria Parra,"- $40,000",otros,egreso
+20/01/2020,Bici muvo de trabajo a unicentro,"- $4,750",transporte,egreso
+20/01/2020,Retiro en cajero automático unicentro,"- $80,000",efectivo,egreso
+21/01/2020,Bici muvo de trabajo a casa,"- $5,250",transporte,egreso
+22/01/2020,Bici muco de trabajo a trabajo Angelines,"- $3,750",transporte,egreso
+23/01/2020,Pago cita urgencia Madrecita,"- $12,300",otros,egreso
+23/01/2020,Compra medicamento ojos madrecita,"- $35,800",otros,egreso
+24/01/2020,Bici muvo de trabajo a casa,"- $4,750",transporte,egreso
+24/01/2020,Cerveza en brewpub,"- $33,000",otros,egreso
+25/01/2020,Retiro en cajero automático rumbos para viaje en chocontá,"- $100,000",efectivo,egreso
+27/01/2020,Bici muvo de trabajo a casa,"- $5,750",transporte,egreso
+27/01/2020,Comida en central cevicheria con Daniela,"- $45,120",comida,egreso
+28/01/2020,Bici muvo de trabajo a casa,"- $6,250",transporte,egreso
+30/01/2020,Bici muvo de trabajo a casa,"- $5,250",transporte,egreso
+31/01/2020,Retiro en cajerp automático,"- $250,000",efectivo,egreso
+01/02/2020,Pago sueldo," $5,063,375",sueldo,ingreso
+03/02/2020,Bici muvo de trabajo a casa,"- $6,000",transporte,egreso
+04/02/2020,Cobro almacenamiento Apple,"- $2,800",otros,egreso
+04/02/2020,Bici muvo de trabajo a casa,"- $5,500",transporte,egreso
+05/02/2020,Almuerzo en el corral,"- $19,900",comida,egreso
+05/02/2020,Retiro en cajero automático,"- $120,000",efectivo,egreso
+06/02/2020,Pago cuota de apartamento Bulevar 127,"- $943,101",apartamento,egreso
+06/02/2020,Bici muvo de cerca a casa a 140 cita Luselis,"- $3,500",transporte,egreso
+07/02/2020,Didi de trabajo a casa,"- $3,454",transporte,egreso
+11/02/2020,Almuerzo en the pot,"- $24,000",comida,egreso
+11/02/2020,Bici muvo de trabajo a casa,"- $5,500",transporte,egreso
+11/02/2020,Retiro en cajero automático unicentro,"- $60,000",efectivo,egreso
+13/02/2020,Bici muvo de trabajo a casa,"- $6,000",transporte,egreso
+14/02/2020,Bici muvo de terapia a casa,"- $5,250",transporte,egreso
+15/02/2020,Pago de celular,"- $82,451",celular,egreso
+16/02/2020,Tanqueo gasolina corriente bora,"- $50,000",transporte,egreso
+17/02/2020,Bici muvo de trabajo a casa,"- $5,750",transporte,egreso
+18/02/2020,Almuerzo en Juan burguers,"- $22,500",comida,egreso
+18/02/2020,Bici muvo de trabajo a casa,"- $5,750",transporte,egreso
+20/02/2020,Retiro en cajero automático,"- $200,000",efectivo,egreso
+21/02/2020,Pago terapias pilates clínica de la postura,"- $208,000",otros,egreso
+21/02/2020,Almuerzo en el corral,"- $21,900",comida,egreso
+25/02/2020,Compra blondies tostao,"- $6,600",comida,egreso
+26/02/2020,Cobro muvo y reembolso en aplicación,"- $2,000",transporte,egreso
+26/02/2020,Almuerzo cumpleaños Viviana,"- $30,150",comida,egreso
+26/02/2020,"Compras en justo y bueno (leche almendras, almendras, papas, y ponqués)","- $18,350",comida,egreso
+27/02/2020,Viaje en bici muvo de trabajo a casa,"- $4,000",transporte,egreso
+29/02/2020,Pago de botella Jameson cumple mono,"- $42,000",otros,egreso
+01/03/2020,Pago sueldo," $4,692,593",sueldo,ingreso
+01/03/2020,Pago cuenta irish pub de cumpleaños mono,"- $140,289",otros,egreso
+02/03/2020,Almuerzo en la cosmica,"- $22,900",comida,egreso
+04/03/2020,Pago almacenamiento apple,"- $2,800",otros,egreso
+05/03/2020,Trnasferencia parte de cuota apartamento," $343,181",apartamento,ingreso
